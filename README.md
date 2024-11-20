@@ -12,7 +12,7 @@ authenticity and security. <br>
 ## How to execute? 💻
 
 ### Clone project:
-`git clone https://bitbucket.org/nft-dapps/nft-warranty-system.git`
+`git clone https://github.com/mollybeach/ecommerce_chain.git`
 
 ### Go to root directory: 
 `cd nft-warranty-system`
